@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kimera-game/precache-manifest.244987eed3f366f7097de49b5618f598.js"
+  "/kimera-game/precache-manifest.ac1cc143e2dbd4856037badd1be1ffe1.js"
 );
 
 self.addEventListener('message', (event) => {
